@@ -1,5 +1,7 @@
-## Hi there 👋
-
+- ## Hi, I'm Anthony! 👋
+- ## Data Analyst, Storyteller, and Visualizer 📊
+- ## My data skillset includes: R, SQL, Excel, Tableau, & more 🧰
+- ## Hobbies include: hurting my back while playing recreational sports 🏐 🎾
 <!--
 **AnthonysAnalysis/AnthonysAnalysis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
