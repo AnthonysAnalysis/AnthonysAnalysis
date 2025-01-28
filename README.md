@@ -1,5 +1,5 @@
 - ### Hi, I'm Anthony! 👋
-- ### Data Analyst, Storyteller, and Visualizer 📊
+- ### Data Analyst, Storyteller, Visualizer, & Enthusiast 📊
 - ### My data skillset includes: R, SQL, Excel, Tableau, & more 🧰
 - ### Hobbies include: hurting my back while playing recreational sports 🏐 🎾
 <!--
